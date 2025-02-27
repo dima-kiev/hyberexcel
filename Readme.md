@@ -41,7 +41,7 @@ If this library saved some time for you and made your project better
 * you can send me payPal
 https://www.paypal.com/donate/?hosted_button_id=Z6LK4JSD3Z63J
 
-<img src="https://github.com/dima-kiev/hyberexcel/blob/master/pp.png" title="paypal QR"/>
+<img src="https://raw.githubusercontent.com/dima-kiev/hyberexcel/refs/heads/main/pp.png" title="paypal QR"/>
 
 and btw! sending a money you can add a comment 
 with a feature you would like to see next!
